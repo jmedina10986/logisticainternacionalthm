@@ -524,13 +524,13 @@ section {
 
 .section-title h2 {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 800;
   padding: 0;
   line-height: 1px;
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #5c8eb0;
+  color: #000000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -550,7 +550,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #002d52;
+  color: #018dff;
 }
 
 /*--------------------------------------------------------------
